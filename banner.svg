@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Youssef Khaled — Financial services, connected by design</title>
+  <desc id="desc">Dark portfolio banner with lime typography and a connected service diagram.</desc>
+  <rect width="1200" height="340" rx="22" fill="#101419"/>
+  <path d="M0 315H1200" stroke="#C9F36A" stroke-width="3"/>
+  <g font-family="Arial, sans-serif">
+    <text x="56" y="66" font-size="16" letter-spacing="3" fill="#C9F36A">FINTECH / FINANCIAL SERVICES</text>
+    <text x="52" y="139" font-size="58" font-weight="700" fill="#F5F7F9">Youssef Khaled</text>
+    <text x="56" y="183" font-size="22" fill="#B7C1CB">Senior Software Engineer · .NET &amp; Angular</text>
+    <text x="56" y="261" font-size="23" fill="#C9F36A">Financial services. Connected by design.</text>
+    <g stroke="#40616B" stroke-width="2" fill="none">
+      <path d="M865 168L791 77M865 168L1060 77M865 168L791 260M865 168L1060 260"/>
+    </g>
+    <g fill="#1A252D" stroke="#40616B">
+      <rect x="715" y="52" width="152" height="50" rx="12"/>
+      <rect x="984" y="52" width="152" height="50" rx="12"/>
+      <rect x="715" y="235" width="152" height="50" rx="12"/>
+      <rect x="984" y="235" width="152" height="50" rx="12"/>
+    </g>
+    <rect x="800" y="139" width="150" height="58" rx="14" fill="#C9F36A"/>
+    <g text-anchor="middle" font-size="16" fill="#D8E3E9">
+      <text x="791" y="83">Payments</text><text x="1060" y="83">Lending</text>
+      <text x="791" y="267">Subscriptions</text><text x="1060" y="267">Remittance</text>
+      <text x="875" y="174" font-weight="700" fill="#101419">APIs &amp; Events</text>
+    </g>
+  </g>
+</svg>
